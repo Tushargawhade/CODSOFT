@@ -1,2 +1,2 @@
 # CODSOFT
-This repository is for CODSOFT web development internship by Tushar Gawhade
+This repository is for CODSOFT web development internship.
